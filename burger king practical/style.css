@@ -1,0 +1,67 @@
+*
+{
+    
+}
+body
+{
+    background-color: black;
+}
+.bg
+{
+    background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/bg.avif.jpg");
+    height: 500px   ;
+    width: 1000PX;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    bottom: -50px;
+    left: 50%;
+    
+}
+.logo
+{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    right: 0%;
+}
+.logo img
+{
+    height: 100px;
+    width: 100px;
+}
+.content
+{
+    position: absolute;
+    left: 5%;
+    top: 50px;
+    font-size: 75px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+.content2
+{
+    position: absolute;
+    left: 5%;
+    top: 225px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    letter-spacing: 5px;
+    font-weight: bolder;
+}
+.button
+{
+    height: 50px;
+    width: 200px;
+    position: absolute;
+    left: 5%;
+    top: 300px;
+    background-color: red;
+}
+.button a
+{
+    font-size: 40px;
+    color:white;
+   text-decoration: none; 
+   padding: 7px;
+}
