@@ -1,0 +1,41 @@
+*
+{
+	margin:0%;
+	padding:0%;
+	box-sizing:border-box;
+}
+body
+{
+.box1
+{
+	height:100vh;
+	width:100%;
+	background-image:url('images/car2.jpg');
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+	
+}
+.box2
+{
+	height:100vh;
+	width:100%;
+	background-image:url('images/car.jpg');
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+	background-attachment:fixed;
+
+}
+.box3
+{
+	height:100vh;
+	width:100%;
+	background-image:url('images/car2.jpg');
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+	
+}
+
+}
